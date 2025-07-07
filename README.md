@@ -3,7 +3,7 @@
 **Drawer Seven** is a clean, interactive, and reusable sliding drawer UI component developed using **HTML**, **Tailwind CSS**, and **JavaScript**.  
 Inspired by modern design systems and mobile navigation patterns, it delivers a seamless user experience and easily integrates into landing pages, dashboards, and responsive web apps.
 
-[🔗 Live Demo](https://drawer-seven.vercel.app/) &nbsp; | &nbsp; [📂 Source Code](https://github.com/deca-hue/drawer-seven)
+[🔗 Live Demo](https://drawer-seven.vercel.app/) &nbsp; | &nbsp; [📂 Source Code](https://github.com/deca-hue/drawer)
 
 ---
 
